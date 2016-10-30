@@ -1,0 +1,9 @@
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\bin\Debug\CryptChat.exe.config
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\bin\Debug\CryptChat.exe
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\bin\Debug\CryptChat.pdb
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\obj\Debug\CryptChat.csprojResolveAssemblyReference.cache
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\obj\Debug\CryptChat.Form1.resources
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\obj\Debug\CryptChat.Properties.Resources.resources
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\obj\Debug\CryptChat.csproj.GenerateResource.Cache
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\obj\Debug\CryptChat.exe
+c:\users\anki\documents\visual studio 2012\Projects\CryptChat\CryptChat\obj\Debug\CryptChat.pdb
