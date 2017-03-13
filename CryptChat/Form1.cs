@@ -1,7 +1,3 @@
-﻿/* This software has been created by Ankit Sharma, Tushar Kawadkar under the guidance of Dileep Kumar Singh in visual studio 2012.
- * Under no circumstances should you copy this code without permission from the authors.*/
-
-
 
 using System;
 using System.Collections.Generic;
@@ -142,7 +138,7 @@ namespace CryptChat
 
         private void aboutBTN_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This software is the combined effort of:\n\n Ankit Sharma\n Tushar Kawadkar\n\n Special thanks to: \n\nDileep Kumar Singh ", "About Us", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("This software has been developed by Ankit Sharma. ", "About Us", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void sendBTN_Click_1(object sender, EventArgs e)
